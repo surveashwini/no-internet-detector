@@ -1,6 +1,6 @@
 {
     "name": "Internet connection status",
-    "version": "1.0",
+    "version": "1.2",
     "description": "While you are busy reading an article, this extension will inform you about no internet connection status!",
     "permissions": [],
     "background": {
